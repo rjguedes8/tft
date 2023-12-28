@@ -1,0 +1,5 @@
+jupyterlab==4.0.8
+darts==0.27.0
+pandas==1.2.3
+plotly==5.18.0
+nbformat==5.9.2
